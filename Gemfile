@@ -5,8 +5,9 @@ source "https://rubygems.org"
 
 gem 'sinatra'
 gem 'rake'
-gem 'thin'
 gem 'shotgun'
+gem 'eventmachine'
+gem 'thin'
 gem 'pry'
 gem 'require_all'
     
